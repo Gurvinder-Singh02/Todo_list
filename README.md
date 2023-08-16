@@ -1,18 +1,3 @@
-This is a todo list app built with HTML, CSS, and JavaScript.
-
-To run the app, clone the repository and open it in your code editor. Then, open the terminal and run the following command:
-
-```
-npm install
-```
-
-This will install the dependencies needed to run the app. Once the dependencies are installed, run the following command to start the app:
-
-```
-npm start
-```
-
-The app will be available at http://localhost:3000.
 
 ## App Features
 
